@@ -1,12 +1,7 @@
-## Hi there 👋
+# Welcome to the CHS Robotics Programming Knowledge Collective
 
-<!--
+With the aim of teaching and introducing members of the club to programming a robot, this organization will have example code from the past 5 years for newcomers to reference and learn from.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
